@@ -1,0 +1,59 @@
+{
+  "sheetsById": {
+    "MainScene": {
+      "staticOverrides": {
+        "byObject": {}
+      },
+      "sequence": {
+        "subUnitsPerUnit": 30,
+        "length": 10,
+        "type": "PositionalSequence",
+        "tracksByObject": {
+          "MainCard": {
+            "trackData": {
+              "bu1yVGOpEn": {
+                "type": "BasicKeyframedTrack",
+                "__debugName": "MainCard:[\"position\",\"z\"]",
+                "keyframes": [
+                  {
+                    "id": "wintGlCfoj",
+                    "position": 0,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": -5
+                  },
+                  {
+                    "id": "iPZvIalmX5",
+                    "position": 2,
+                    "connectedRight": true,
+                    "handles": [
+                      0.5,
+                      1,
+                      0.5,
+                      0
+                    ],
+                    "type": "bezier",
+                    "value": 0
+                  }
+                ]
+              }
+            },
+            "trackIdByPropPath": {
+              "[\"position\",\"z\"]": "bu1yVGOpEn"
+            }
+          }
+        }
+      }
+    }
+  },
+  "definitionVersion": "0.4.0",
+  "revisionHistory": [
+    "3ZBEDSGZcQHsTZj2"
+  ]
+}
